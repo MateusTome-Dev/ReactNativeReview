@@ -1,0 +1,31 @@
+{
+    "contatos":[
+        {
+            "id":"1",
+            "nome":"João Silva",
+            "telefone":"78787878"
+        },
+        {
+            "id":"2",
+            "nome":"João Paulo",
+            "telefone":"75757575"
+        }
+    ],
+    "faq":[
+        {
+            "id":"1",
+            "pergunta":"O que é o json Server?",
+            "resposta":"Json Server é uma ferramenta que permite..."
+        },
+        {
+            "id":"2",
+            "pergunta":"O que é galinha pintadinha?",
+            "resposta":"Galinha pintadinha é um desenho que permite..."
+        },
+        {
+            "id":"3",
+            "pergunta":"O que é react-native?",
+            "resposta":"react native é uma ferramenta que permite..."
+        }
+    ]
+}
